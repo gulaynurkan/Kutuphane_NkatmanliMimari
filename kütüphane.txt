@@ -1,0 +1,285 @@
+C#Eðitimleri
+Teslim tarihi yaklaþan ödevler
+Yaþasýn, teslim tarihi yaklaþan ödev/soru yok!
+Tümünü görüntüle
+
+Sýnýfýnýzla bir þeyler paylaþýn…
+
+Yayýn sahibi: Emre Kökçü
+Emre Kökçü
+Oluþturulma tarihi: 18 Þub18 Þub
+kütüphane veritabaný mssql komutlarý
+
+kutuphane_sql.sql
+SQL
+
+Duyuru: "Nkatmanlý Mimari"
+Elif Cengiz
+Oluþturulma tarihi: 15 Þub15 Þub
+Nkatmanlý Mimari
+
+NKatmanlýMimari.rar
+Sýkýþtýrýlmýþ Arþiv
+
+Elif Cengiz08:06
+Bizim için önemli olan baþlýklar kitaplar, üyeler ve kiralama onlarý öncelikle tamamlayabilirsin
+
+Duyuru: "adamýmýz :)"
+Elif Cengiz
+Oluþturulma tarihi: 14 Þub14 Þub
+adamýmýz :)
+
+Person-Male-Light-icon.png
+Görsel
+
+Duyuru: "Yeni proje için telefonRehberi TSQL…"
+Elif Cengiz
+Oluþturulma tarihi: 14 Þub14 Þub
+Yeni proje için telefonRehberi TSQL kodunu SQL Server Management Studio da çalýþtýralým
+
+TSQL.zip
+Sýkýþtýrýlmýþ Arþiv
+
+Duyuru: "ADONET uygulamamýzýn son hali budur.…"
+Elif Cengiz
+Oluþturulma tarihi: 13 Þub13 Þub
+ADONET uygulamamýzýn son hali budur. StoreProcedure create sql de dosya bulunmaktadýr. Önce onu çalýþtýrmanýz gerekiyor.
+
+ADONETUygulama11.rar
+Sýkýþtýrýlmýþ Arþiv
+
+Elif Cengiz14 Þub
+Kodda yer alan tablo isimleri ve store procedure Database de mevcut mu?
+
+Duyuru: "Ado.Net döküman"
+Elif Cengiz
+Oluþturulma tarihi: 13 Þub13 Þub
+Ado.Net döküman
+
+adonet.pdf
+PDF
+
+Duyuru: "ADO.Net ilk uygulama"
+Elif Cengiz
+Oluþturulma tarihi: 13 Þub13 Þub
+ADO.Net ilk uygulama
+
+ADONETUygulama1.rar
+Sýkýþtýrýlmýþ Arþiv
+
+Umut Kaymak13 Þub
+þimdi ona bakýyordum listele metodunu finally taþýmýþsýnýz o da mantýklý :D
+
+Duyuru: "Windows Form hesap makinesi uygulamasý"
+Elif Cengiz
+Oluþturulma tarihi: 11 Þub11 Þub
+Windows Form hesap makinesi uygulamasý
+
+HesapNakinesi.rar
+Sýkýþtýrýlmýþ Arþiv
+
+Duyuru: "Ýlk Form Uygulamasý"
+Elif Cengiz
+Oluþturulma tarihi: 11 Þub11 Þub
+Ýlk Form Uygulamasý
+
+ILK_Form_Uygulamasý.rar
+Sýkýþtýrýlmýþ Arþiv
+
+Yayýn sahibi: Seher Kap
+Seher Kap
+Oluþturulma tarihi: 9 Þub9 Þub
+çiðköfte partisi
+
+IMG_20190208_124736.jpg
+Görsel
+
+IMG_20190208_124710.jpg
+Görsel
+
+IMG_20190208_124738.jpg
+Görsel
+
+Duyuru: "Trigger Örnekler"
+Elif Cengiz
+Oluþturulma tarihi: 7 Þub7 Þub
+Trigger Örnekler
+
+TriggerÖrnekler.sql
+SQL
+
+Duyuru: "Kütüphane veritabanýný servere alalým…"
+Elif Cengiz
+Oluþturulma tarihi: 7 Þub7 Þub
+Kütüphane veritabanýný servere alalým üzerinde örnek çözeceðiz
+
+kutuphane-veritabaný.zip
+Sýkýþtýrýlmýþ Arþiv
+
+Duyuru: "Trigger ve view örnekler"
+Elif Cengiz
+Oluþturulma tarihi: 6 Þub6 Þub
+Trigger ve view örnekler
+
+Trigger.sql
+SQL
+
+Trigger.txt
+Metin
+
+view.txt
+Metin
+
+Yayýn sahibi: þevval özkan
+þevval özkan
+Oluþturulma tarihi: 6 Þub6 Þub
+--sgl--
+01.02.2019
+04.02.2019
+05.02.2019
+
+1.02.19.txt
+Metin
+
+04.02.2019.txt
+Metin
+
+05.02.2019.txt
+Metin
+
+Yayýn sahibi: Emre Kökçü
+Emre Kökçü
+Oluþturulma tarihi: 6 Þub6 Þub
+Linux ders notu farklý kaynak (pdf):
+http://www.yildiz.edu.tr/~oeyeci/drsDosya/os/TheLinuxAdminGuide.pdf
+
+Yayýn sahibi: Emre Kökçü
+Emre Kökçü
+Oluþturulma tarihi: 6 Þub6 Þub
+Linux ders notu(pdf):
+
+Screenshot_2019-02-06-06-26-05.png
+Görsel
+
+Duyuru: "StoreProcedure Update Delete örnekleri"
+Elif Cengiz
+Oluþturulma tarihi: 5 Þub5 Þub
+StoreProcedure Update Delete örnekleri
+
+StoreProcedureDelete.sql
+SQL
+
+StoreProcedureUpdate.sql
+SQL
+
+Duyuru: "StoreProcedure iki tabloya birlikte…"
+Elif Cengiz
+Oluþturulma tarihi: 5 Þub5 Þub
+StoreProcedure iki tabloya birlikte insert etmeyi saðladýk.
+
+StoreProcedureInsertOrnek.sql
+SQL
+
+Yayýn sahibi: Emre Kökçü
+Emre Kökçü
+Oluþturulma tarihi: 4 Þub4 Þub
+Kurumsal Mimariler Ýçin Sql Server Veri Tabaný Tasarýmý Ücretsiz Udemy Eðitimi:
+https://www.udemy.com/veritabani-tasarimi/
+
+Yayýn sahibi: Emre Kökçü
+Emre Kökçü
+Oluþturulma tarihi: 4 Þub4 Þub
+Ücretsiz Python Eðitimi Udemy Kursu(19 saat):
+https://www.udemy.com/python-programlamann-temelleri/
+C#Eðitimleri
+use master;
+create database kutuphane;
+use kutuphane;
+
+create table kullanicilar(
+kullanici_id int identity,
+kullanici_adi varchar(20),
+kullanici_sifre varchar(20),
+constraint const_pkkey_kullanicilar primary key (kullanici_adi)
+);
+
+create table diller(
+d_id int identity,
+d_adi varchar(20),
+constraint const_pkkey_diller primary key (d_id)
+);
+
+create table kitaptürleri(
+kt_id int identity,
+kt_kodu varchar(6) constraint const_kt_kodu check(kt_kodu like('KTK-[0-9][0-9]')),--KTK-00
+kt_adi varchar(30),
+constraint const_pkkey_kitaptürleri primary key (kt_kodu)
+);
+
+create table yazarlar(
+y_id int identity,
+y_kodu varchar(8) constraint const_y_kodu check(y_kodu like('YK-[0-9][0-9][0-9][0-9][0-9]')),--YK-00000
+y_adi varchar(50),
+y_soyadi varchar(50),
+constraint const_pkkey_yazarlar primary key (y_kodu)
+);
+
+create table yayinevi(
+ye_id int identity,
+ye_firmakodu varchar(9) constraint const_ye_firmakodu check(ye_firmakodu like('YEFK-[0-9][0-9][0-9][0-9]')),--YEFK-0000
+ye_firmaadi varchar(50),
+ye_firmatelI varchar(16),
+ye_firmatelII varchar(16),
+ye_firmafaxno varchar(16),
+ye_firmaemail varchar(60),
+ye_firmawebadresi varchar(100),
+ye_firmaadresi varchar(500),
+constraint const_pkkey_yayinevi primary key (ye_firmakodu)
+);
+
+create table kitaplar(
+ktp_id int identity,
+ktp_kodu uniqueidentifier,
+ktp_ISBN varchar(13) unique not null,
+ktp_adi varchar(150),
+ktp_kt_kodu varchar(6) foreign key references kitaptürleri(kt_kodu),
+ktp_y_kodu varchar(8) foreign key references yazarlar(y_kodu),
+ktp_sayfasayisi int,
+ktp_ye_firmakodu varchar(9) foreign key references yayinevi(ye_firmakodu),
+ktp_basimtarihi date,
+constraint const_pkkey_kitaplar primary key (ktp_kodu)
+);
+
+create table kitapfiyatlari(
+ktp_kodu uniqueidentifier foreign key references kitaplar(ktp_kodu),
+ktp_fiyati money,
+ktp_gunlukkiralamafiyati money,
+);
+
+
+create table uyeler(
+u_id int identity,
+u_kodu varchar(8) constraint const_u_kodu check(u_kodu like('UK-[0-9][0-9][0-9][0-9][0-9]')),--UK-00000
+u_adi varchar(30),
+u_soyadi varchar(30), 
+u_dogumtarihi date,
+u_tel varchar(16),
+u_email varchar(50), 
+u_adres varchar(500),
+constraint const_pkkey_uyeler primary key (u_kodu)
+);
+
+create table kiralama(
+k_id int identity,
+k_kodu varchar(10) constraint const_k_kodu check(k_kodu like('KK-[0-9][0-9][0-9][0-9][0-9][0-9][0-9]')),--KK-0000000
+k_ktp_kodu uniqueidentifier foreign key references kitaplar(ktp_kodu),
+k_baslangictarihi date,
+k_bitistarihi date,
+k_veristarihi date,
+k_u_kodu varchar(8) foreign key references uyeler(u_kodu),
+k_fiyati money,
+k_d_kodu int foreign key references diller(d_id),
+k_notu varchar(500),
+k_bitisdurumu bit,
+constraint const_pkkey_kiralama primary key (k_kodu)
+);
